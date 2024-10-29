@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52d6ec3a-76b5-4e2c-a855-f133a40edb00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Exercicio1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Exercicio1/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Exercicio2/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Exercicio2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Exercicio3/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula29deOutubro/Erros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula29deOutubro/ManipulaçãoDeArquivos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Fernandes-ez&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -54,9 +55,15 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fernandes-ez/TecnicasDeProgramacao2bim.git&quot;,
+    &quot;accountId&quot;: &quot;a561a2af-7557-47fe-8c13-3c7a50a37aea&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2kHipPoQQCeSUgTadOvQ3506nbR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -65,12 +72,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Erros.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ManipulaçãoDeArquivos.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ManipulaçãoDeArquivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula29deOutubro.ManipulaçãoDeArquivos" />
+      <module name="TecnicasDeProgramacaoI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula29deOutubro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ManipulaçãoDeArquivos" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
